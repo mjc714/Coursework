@@ -1,0 +1,6 @@
+Matthew Chin
+mjc714
+includes
+- ojdbc6.jar
+- Transcript.jar to be run by java -jar Transcript.jar
+- Transcript folder containing Transcript.java, Transcript.class

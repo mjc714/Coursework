@@ -1,0 +1,2 @@
+Main-class: Transcript
+Class-path: ojdbc6.jar

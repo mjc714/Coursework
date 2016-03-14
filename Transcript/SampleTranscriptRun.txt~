@@ -1,0 +1,48 @@
+Sample Run of Transcript
+Input name search substring->pot
+No matches. Try again
+Input name search substring->rot
+Here is a list of all matching id, name tuples.
+ID      Name
+72111   Borot
+74945   Pirotte
+51570   Pirotte
+Enter the student ID for whose transcript you seek.
+Please enter an integer between 0 and 99999->721111
+null Retype your input
+Please enter an integer between 0 and 99999->9999999999999999999999999
+Bad number For input string: "9999999999999999999999999"
+Restarting...
+Connection closed!
+Enter Oracle user id ->mjc714
+Enter Oracle password for mjc714->Johhong1
+Input name search substring->rot
+Here is a list of all matching id, name tuples.
+ID      Name
+72111   Borot
+74945   Pirotte
+51570   Pirotte
+Enter the student ID for whose transcript you seek.
+Please enter an integer between 0 and 99999->-72111
+Invalid input, try again
+Please enter an integer between 0 and 99999->:)a0a-_!~l; LA
+
+Invalid input, try again
+Please enter an integer between 0 and 99999->Borot
+Invalid input, try again
+Please enter an integer between 0 and 99999->72111
+Transcript for student 72111
+Year    Semester        Department                              Course_ID       Course                                                  Grade
+2002    Spring          Finance                                 908             Database System Concepts                                B-
+2003    Spring          Astronomy                               770             Polymer Science                                         B
+2003    Fall            Biology                                 432             Martian History                                         A
+2004    Spring          Comp. Sci.                              413             Optics                                                  B+
+2004    Fall            Civil Eng.                              588             Pharmaceutics                                           C+
+2005    Spring          Biology                                 640             Groups and Rings                                        A
+2005    Fall            Finance                                 481             Telecommunication                                       B
+2005    Fall            Mech. Eng.                              963             Aerodynamics                                            A+
+2006    Spring          Civil Eng.                              849             Thermodynamics                                          C+
+2007    Spring          Music                                   934             Investment Banking                                      A
+2007    Fall            Mech. Eng.                              864             The IBM 360 Architecture                                B+
+2008    Fall            Civil Eng.                              844             Investment Banking                                      C-
+Connection closed!
